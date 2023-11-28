@@ -36,7 +36,7 @@ def create_bymonth_df(df):
     return df
 
 day_df = pd.read_csv('https://raw.githubusercontent.com/devitaindhas/bike-sharing-data-analysis/main/dashboard/new_day.csv')
-hour_df = pd.read_csv('https:/raw.githubusercontent.com/devitaindhas/bike-sharing-data-analysis/main/dashboard/new_hour.csv')
+hour_df = pd.read_csv('https://raw.githubusercontent.com/devitaindhas/bike-sharing-data-analysis/main/dashboard/new_hour.csv')
 
 
 daily_df = create_byseason_df(day_df)
