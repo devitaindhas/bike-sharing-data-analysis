@@ -48,3 +48,4 @@ Run Streamlit app
 ```bash
     streamlit run dashboard.py
 ```
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bike-sharing-data-analysis.streamlit.app)
