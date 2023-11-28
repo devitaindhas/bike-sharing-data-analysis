@@ -46,5 +46,5 @@ Then, you must install all required library :
 
 Run Streamlit app
 ```bash
-    streamlit run dashboard\dashboard.py
+    streamlit run dashboard.py
 ```
